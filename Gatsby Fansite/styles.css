@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  background-color: #faf0af;
+}
+.bluesky {
+  width: 100%;
+  height: 50em;
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+.icon {
+  width: 8em;
+  height: 8em;
+}
+.name {
+  font-family:'Pacifico', cursive;
+  color: #79d70f;
+}
+.heading {
+  font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+  text-align: center;
+  color: grey;
+  position: relative;
+  bottom: 31em;
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
